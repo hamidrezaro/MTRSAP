@@ -1,6 +1,6 @@
 # MTRSAP - Multimodal Transformer for Real-time Surgical Activity Recognition and Prediction
 
-This repository provides the code for the ICRA 2024 paper ["Multimodal Transformer for Real-time Surgical Activity Recognition and Prediction"](https://arxiv.org/pdf/2403.06705).
+This repository provides the code for the ICRA 2024 paper ["Multimodal Transformer for Real-time Surgical Activity Recognition and Prediction"]([https://arxiv.org/pdf/2403.06705](https://ieeexplore.ieee.org/document/10611048)).
 
 ## Table of Contents
 
